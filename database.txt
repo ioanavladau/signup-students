@@ -1,0 +1,1 @@
+{"name":"University Name","address":"Address here","students":[{"id":"5c5b5d00a7e93","name":"ioana"},{"id":"5c5b5d0b3c69c","name":"io"},{"id":"5c5b5d820f7f8","name":"ioana"},{"id":"5c5b5d87a8179","name":"maria"},{"id":"5c5b5d8ccb5c5","name":"santiago"},{"id":"5c5b5f0f63a75","name":"kea"},{"id":"5c5b5f2eb200a","name":"ccc"},{"id":"5c5b5fa205ff6","name":"student5"}]}
